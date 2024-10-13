@@ -4,8 +4,8 @@ import FoodList from "./component/foodList";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  // let arr = ["orange", "rice", "chicken", "milk", "egg", "banana", "protin"];
-  let arr=[];
+  let arr = ["orange", "rice", "chicken", "milk", "egg", "banana", "protin"];
+  // let arr=[];
   return (
     <>
       <h1>Healthy food</h1>

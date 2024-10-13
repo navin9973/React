@@ -1,0 +1,19 @@
+
+
+input{
+  width: 100%;
+}
+.col-md{
+width: 100%;
+  text-align: center;
+} 
+ 
+.botton-container{
+  min-width: 80px;
+}
+.kg{
+  padding-left: 300px;
+  padding-right: 300px;
+  margin:50px;
+  text-align: left;
+}
