@@ -1,5 +1,6 @@
-.heading{
+.heading{           
   font-weight: 500;
   font-size: 50px;
   margin: 40px;
 }
+/* camael case me class ka naam likhne pr import krne ke baad style.heading se execute kr shakte h but agar hm head-ing likhe jo camelcase me nhi tab hmko syle["head-ing"] likhna hoga */

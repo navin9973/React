@@ -1,0 +1,15 @@
+
+#buttonContainer{
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* gap: 5px; */
+flex-wrap: wrap;
+  
+}
+.button{
+  margin: 3px;
+  width: 45px;
+  height: 45px;
+  
+}
